@@ -172,7 +172,7 @@ function NavBar() {
               </ListItem>
             ))}
           </List>
-        )}
+        )};
       </Box>
     </Box>
   );
